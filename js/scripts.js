@@ -263,7 +263,7 @@
 
     function cformSuccess() {
         $("#contactForm")[0].reset();
-        window.location.href = "https://alextdiamant.github.io/celebration/index.html";
+        window.location.href = "https://alextdiamant.github.io/celebration/privacy-policy.html";
         $("input").removeClass('notEmpty'); // resets the field label after submission
         $("textarea").removeClass('notEmpty'); // resets the field label after submission
     }
